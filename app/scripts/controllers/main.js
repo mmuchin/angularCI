@@ -7,4 +7,7 @@ angular.module('angularCiApp')
       'AngularJS',
       'Karma'
     ];
+        $scope.click = {
+
+        };
   });
